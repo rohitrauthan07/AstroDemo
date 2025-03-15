@@ -29,6 +29,8 @@ A brief description of what this project does and its purpose.
    php artisan migrate
    ```
 
+For Admin We need to change in DB manually 
+
 ## Usage
 
 To start the local development server, run:
